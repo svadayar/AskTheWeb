@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+faiss-cpu
+openai
+gradio
+tiktoken
